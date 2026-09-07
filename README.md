@@ -10,3 +10,4 @@ This project studies AI-generated image detection across multiple generators by 
 - `report/` - manifests, metrics, ablation results, and visualizations
 
 Run the notebooks with a Python environment containing the packages imported in the notebooks. The included reports and models contain the completed experiment outputs.
+Thank you.
